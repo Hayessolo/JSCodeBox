@@ -12,6 +12,13 @@ JSCodeBox is a repository dedicated to exploring and experimenting with JavaScri
 - **Project Showcase:** Share your JavaScript projects and code snippets with the community.
 - **Learning Resources:** Find helpful JavaScript resources, tutorials, and tips.
 
+## Folder Structure
+
+- `/challenges`: Contains JavaScript problems, including FizzBuzz and more.
+- `/data_structures`: Explore JavaScript implementations of common data structures.
+- `/algorithms`: Find JavaScript implementations of various algorithms.
+- `/oop`: Discover examples of Object-Oriented Programming in JavaScript.
+
 ## Getting Started
 
 Follow these steps to get started with JSCodeBox:
